@@ -1,0 +1,7 @@
+you can go for random tile images in google or,
+if you have ample amount of time,you can click photos from your mobile.
+Make sure to have atleast 300 to 400 clean tile images and 
+another 300 images of dirty tiles for sufficient training of data.
+Make sure to split the data in to 70:30 ratio,ie,
+70 percent data for training and 30% remaining data for testing.
+Here i achieved an accuracy of 91%.
